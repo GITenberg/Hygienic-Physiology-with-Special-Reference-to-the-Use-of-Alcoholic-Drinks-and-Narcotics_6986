@@ -1,0 +1,27 @@
+_repo: Hygienic-Physiology-with-Special-Reference-to-the-Use-of-Alcoholic-Drinks-and-Narcotics_6986
+creator:
+  author:
+    agent_name: Steele, Joel Dorman
+    alias: Steele, J. Dorman (Joel Dorman)
+    birthdate: 1836
+    deathdate: 1886
+    gutenberg_agent_id: '2288'
+    url: http://www.gutenberg.org/2009/agents/2288
+description: ''
+gutenberg_bookshelf: Physiology
+gutenberg_issued: '2004-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6986'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hygiene'
+- !lcsh 'Alcohol -- Physiological effect'
+- !lcc 'QP'
+- !lcsh 'Physiology'
+title: 'Hygienic Physiology : with Special Reference to the Use of Alcoholic Drinks
+  and Narcotics'
+url: http://www.gutenberg.org/ebooks/6986
